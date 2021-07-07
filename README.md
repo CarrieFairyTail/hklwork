@@ -1,4 +1,4 @@
-# hkl
+# studyvue
 
 ## Project setup
 ```
