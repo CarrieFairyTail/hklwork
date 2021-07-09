@@ -22,10 +22,6 @@ let slideMenu = [
       {
         name: '我的日历',
         url: '/hklView'
-      },
-      {
-        name: '美人日历',
-        url: '/'
       }
     ]
   },
@@ -35,10 +31,6 @@ let slideMenu = [
       {
         name: '我的',
         url: '/hklBill'
-      },
-      {
-        name: '美人',
-        url: '/'
       },
       {
         name: '首页',
@@ -55,11 +47,7 @@ let slideMenu = [
     children: [
       {
         name: '我的',
-        url: '/'
-      },
-      {
-        name: '美人',
-        url: '/'
+        url: '/html5'
       },
       {
         name: 'Demo',

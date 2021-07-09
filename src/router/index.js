@@ -7,6 +7,7 @@ import myText from '../views/HKL/text'
 import hklBill from '../views/HKL/hklBill/bill'
 import billHome from '../views/HKL/hklBill/billHome'
 import home from '../views/HKL/home'
+import html5 from '../views/H5.vue'
 Vue.use(VueRouter)
 
 const routes = [
@@ -44,6 +45,11 @@ const routes = [
     path: '/home',
     name: 'home',
     component: home
+  },
+  {
+    path: '/html5',
+    name: 'H5',
+    component: html5
   }
 ]
 
